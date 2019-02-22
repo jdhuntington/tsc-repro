@@ -24,7 +24,7 @@
     "office-ui-fabric-core": ">=9.0.0 <10.0.0",
     "react": ">=16.8.0 <17.0.0",
     "react-dom": ">=16.8.0 <17.0.0",
-    "typescript": "^3.3.3"
+    "typescript": "^3.4.0-dev.20190222"
   },
   "dependencies": {
     "@microsoft/load-themed-styles": "^1.7.13",
